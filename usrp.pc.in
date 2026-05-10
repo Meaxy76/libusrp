@@ -6,6 +6,6 @@ includedir=@includedir@
 Name: usrp
 Description: USRP Client Side C++ interface
 Requires: libusb-1.0
-Version: @VERSION@
+Version: 3.3
 Libs: -L${libdir} -lusrp
 Cflags: -I${includedir}
